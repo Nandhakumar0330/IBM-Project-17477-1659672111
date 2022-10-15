@@ -18,9 +18,9 @@
 - MOHAMED ARQAM ABDULLAH M
 - MOHAMMED AFFAN C
 
-<a href = "https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-17477-1659672111"/>
-</a>
+
+<img src = "https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-17477-1659672111"/>
+
 
 # REQUIRED SKILLS
 
