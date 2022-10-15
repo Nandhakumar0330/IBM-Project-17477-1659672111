@@ -18,4 +18,4 @@
 - MOHAMED ARQAM ABDULLAH M
 - MOHAMMED AFFAN C
 
-# **EMPATHY MAP**[📖](https://drive.google.com/file/d/1STJWxbn2TAHJrjTM2cE8pmtCU_M3L0Tx/view?usp=sharing)
+# **PROJECT PLAN**[📖](https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
