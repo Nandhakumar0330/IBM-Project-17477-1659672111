@@ -13,9 +13,18 @@
 # **👨‍💻 TEAM MEMBERS**
 - AASIM AHMED M
 - ABDUR RAHMAN HAMMAD NS
-- FARAAZ AHMED C
+- FARAAZ AHMED C 
 - HARUN J
 - MOHAMED ARQAM ABDULLAH M
 - MOHAMMED AFFAN C
 
+<a href = "https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-17477-1659672111"/>
+</a>
+
+# REQUIRED SKILLS
+
+IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
+
 # **PROJECT PLAN**[📖](https://drive.google.com/file/d/1JGdRjevCCdO0Ld6N2eW2PblcOMvUsp8h/view?usp=sharing)
+
