@@ -1,4 +1,20 @@
 
+<!-- PROJECT LOGO -->
+
+  <a href="https://github.com/IBM-EPBL/IBM-Project-17477-1659672111">
+    <img src="https://raw.githubusercontent.com/FaraazAhmedC/FaraazAhmedC/main/IBM_logo.svg.png" alt="Logo" width="320" height="128">
+ 
+ </a>
+
+<br />
+
+<div align= left>
+  
+  # **IBM-Project-17477-1659672111**
+  
+</div>
+
+
 # **⛽GAS LEAKAGE MONITORING AND ALERTING SYSTEM FOR INDUSTRIES**
 
 - TECHNOLOGY : INTERNET OF THINGS (IoT)
@@ -21,6 +37,11 @@
 
 <img src = "https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-17477-1659672111"/>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
+
 
 # REQUIRED SKILLS
 
@@ -28,3 +49,13 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 
 # **PROJECT PLAN**[📖](https://drive.google.com/file/d/1JGdRjevCCdO0Ld6N2eW2PblcOMvUsp8h/view?usp=sharing)
 
+![Snake animation](https://github.com/FaraazAhmedC/FaraazAhmedC/blob/main/snake%20grid.svg)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-17477-1659672111.svg?style=for-the-badge
+[contributors-url]:https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/graphs/contributors
+[forks-shield]:https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-17477-1659672111.svg?style=for-the-badge
+[forks-url]:https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/network/members
+[stars-shield]: https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-17477-1659672111.svg?style=for-the-badge
+[stars-url]:https://github.com/IBM-EPBL/IBM-Project-17477-1659672111/stargazers
